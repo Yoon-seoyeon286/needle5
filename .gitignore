@@ -1,6 +1,5 @@
-**/node_modules
-assets/
-dist/
+/node_modules
+
 include/draco/
 include/ktx2/
 include/three/
