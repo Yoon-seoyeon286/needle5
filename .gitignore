@@ -1,0 +1,11 @@
+**/node_modules
+assets/
+dist/
+include/draco/
+include/ktx2/
+include/three/
+include/console/
+include/three-mesh-ui-assets/
+include/fonts/
+build.log
+.DS_Store
